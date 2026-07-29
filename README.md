@@ -82,7 +82,7 @@
 <p>
   <a href="https://kladdvara.dandelion.computer">
     <img
-      src="https://v1.screenshot.11ty.dev/https%3A%2F%2Fkladdvara.dandelion.computer/large"
+      src="https://raw.githubusercontent.com/solanto/kladdvara/refs/heads/main/web/public/icon.svg"
       width="120"
       height="120"
       alt=""

@@ -28,7 +28,7 @@
 <p>
   <a href="https://gridded.blue">
     <img
-      src="https://v1.screenshot.11ty.dev/https%3A%2F%2Fgridded.blue%2Fview%3Fprofile%3Dbsky.app/large"
+      src="https://raw.githubusercontent.com/solanto/gridded.blue/refs/heads/master/public/favicon.svg"
       width="120"
       height="120"
       alt=""

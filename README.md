@@ -5,7 +5,7 @@
 
 ❤️🌱🌞🏳️‍🌈⚙️
 
-## pinned
+## featured
 
 <table>
   <tr>

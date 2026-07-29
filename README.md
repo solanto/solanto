@@ -10,7 +10,7 @@
 <p>
   <a href="https://dandelion.computer">
     <img
-      src="https://v1.screenshot.11ty.dev/https%3A%2F%2Fdandelion.computer/small/"
+      src="https://raw.githubusercontent.com/solanto/blog/refs/heads/main/src/assets/logo/sticker.svg"
       width="120"
       height="120"
       alt=""

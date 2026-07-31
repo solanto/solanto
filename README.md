@@ -6,8 +6,8 @@
 •
 ![fish](https://img.shields.io/badge/fish-34C534?logo=fishshell&logoColor=fff&style=for-the-badge)
 •
-![GNOME](https://img.shields.io/badge/GNOME-4A86CF?logo=gnome&logoColor=fff&style=for-the-badge)
 ![Ghostty](https://img.shields.io/badge/Ghostty-3551F3?logo=ghostty&logoColor=fff&style=for-the-badge)
+![GNOME](https://img.shields.io/badge/GNOME-4A86CF?logo=gnome&logoColor=fff&style=for-the-badge)
 •
 ![pipx](https://img.shields.io/badge/pipx-2CFFAA?logo=pipx&logoColor=000&style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
@@ -29,8 +29,8 @@
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 •
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
 •
 ![Boxy SVG](https://img.shields.io/badge/Boxy%20SVG-3584E3?logo=boxysvg&logoColor=fff&style=for-the-badge)
 ![GIMP](https://img.shields.io/badge/GIMP-8C8073?logo=gimp&logoColor=fff&style=for-the-badge)

@@ -1,7 +1,4 @@
-<h1>
-  <a href="https://dandelion.computer"><img src="https://raw.githubusercontent.com/solanto/blog/refs/heads/main/src/assets/logo/sticker.svg" alt="dandelion.computer" style="height: 3rem; margin-top: 1em"></a>
-  <a href="https://github.com/solanto"><img src="https://img.shields.io/badge/solanto-%23121011.svg?logo=github&logoColor=white" style="height: 3rem" alt="solanto, on GitHub"></a>
-</h1>
+# [`dandelion.computer`](https://dandelion.computer)
 
 ❤️🌱🌞🏳️‍🌈⚙️
 

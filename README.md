@@ -1,4 +1,4 @@
-# [`dandelion.computer`](https://dandelion.computer)
+# <img src="frog.gif" height="32" style="height: 1em; width: auto"> [`dandelion.computer`](https://dandelion.computer)
 
 ❤️🌱🌞🏳️‍🌈⚙️
 

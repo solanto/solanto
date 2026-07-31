@@ -111,3 +111,7 @@
       style="height: 120px">
   </a>
 </p>
+
+---
+
+frog art is ["Froggy"](https://caz-bee.itch.io/froggy) by [CazBee](https://caz-bee.itch.io/)

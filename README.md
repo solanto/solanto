@@ -134,7 +134,7 @@
 <p>
   <a href="https://github.com/solanto/downsonic">
     <img
-      src="https://raw.githubusercontent.com/googlefonts/noto-emoji/refs/heads/main/svg/emoji_u1f3b7.svg"
+      src="https://raw.githubusercontent.com/googlefonts/noto-emoji/refs/heads/main/3D/png/128/emoji_u1f3b7.png"
       width="120"
       height="120"
       alt=""

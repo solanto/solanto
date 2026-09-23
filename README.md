@@ -114,6 +114,24 @@
 </p>
 
 <p>
+  <a href="https://github.com/solanto/kanapesh">
+    <img
+      src="https://raw.githubusercontent.com/googlefonts/noto-emoji/refs/heads/main/3D/png/128/emoji_u1f3a3.png"
+      width="120"
+      height="120"
+      alt=""
+      style="height: 120px; width: auto">
+  </a>
+  <a href="https://github.com/solanto/kanapesh">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin?username=solanto&repo=kanapesh&card_width=300"
+      height="120"
+      alt="kanapesh / 🎣 tab-complete files in specific directories by date modified in your fish shell / fish"
+      style="height: 120px">
+  </a>
+</p>
+
+<p>
   <a href="https://kladdvara.dandelion.computer">
     <img
       src="https://raw.githubusercontent.com/solanto/kladdvara/refs/heads/main/web/public/icon.svg"
